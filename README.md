@@ -69,7 +69,7 @@ This repository contains a complete pipeline for Plannet Classification using ma
 Open `code.ipynb` in Jupyter Notebook and execute the cells in order.
 
 ## 🏆 Results
-- The model achieves high accuracy using optimized parameters.
+- The model achieves high accuracy of 90.086% using optimized parameters.
 - Predictions are consistent across train and test datasets.
 
 ## 📌 Contributing
