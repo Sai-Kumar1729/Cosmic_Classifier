@@ -22,7 +22,7 @@ This repository contains a complete pipeline for Plannet Classification using ma
 ## 🔧 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Plannet Classification.git
+   [git clone //https://github.com/Sai-Kumar1729/Cosmic_Classifier.git)
    cd Disaster_Prediction
    ```
 2. Install dependencies:
