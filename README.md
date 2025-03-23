@@ -32,8 +32,8 @@ This repository contains a complete pipeline for Plannet Classification using ma
 
 ## 📊 Dataset
 - The dataset consists of various planetory-related parameters.
-  
-- 1. Atmospheric Density: Measure of the thickness of the planet's atmosphere (in kg/m³).
+
+-1. Atmospheric Density: Measure of the thickness of the planet's atmosphere (in kg/m³).
      
 -2. Surface Temperature: Average surface temperature of the planet (in Kelvin).
 
