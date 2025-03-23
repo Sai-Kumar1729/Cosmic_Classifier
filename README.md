@@ -32,15 +32,25 @@ This repository contains a complete pipeline for Plannet Classification using ma
 
 ## 📊 Dataset
 - The dataset consists of various planetory-related parameters.
+  
 - 1. Atmospheric Density: Measure of the thickness of the planet's atmosphere (in kg/m³).
+     
 -2. Surface Temperature: Average surface temperature of the planet (in Kelvin).
+
 -3. Gravity: Surface gravity of the planet (in m/s²).
+
 -4. Water Content: Percentage of the planet's surface covered by water (0-100%).
+
 -5. Mineral Abundance: Index representing the availability of valuable minerals (scale 0-1).
+
 -6. Orbital Period: Time the planet takes to orbit its star (in Earth days).
+
 -7. Proximity to Star: Distance from the planet to its star (in AU).
+
 -8. Magnetic Field Strength: Measure of the planet's magnetic field (in Tesla).
+
 -9. Radiation Levels: Average radiation levels on the planet's surface (in Sieverts/year).
+
 -10. Atmospheric Composition Index: Index measuring the suitability of the atmosphere for human life (scale 0-1).
 
 
